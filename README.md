@@ -1,7 +1,6 @@
 # ic-stars-git-practice
 Daytreon Burt
 Sontcera McWilliams
-adding again
 Dan Park
 Clyde Gordon!!
 Gina Brown
@@ -10,8 +9,7 @@ Nikki Radford
 EUGENE GREEN
 Vanessa McCarter
 Sergio Rocha
-<<<<<<< HEAD
+Gabriel Sanabria
 Sontcera
-Adding My Name
-Vanessa 
+Vanessa
 
