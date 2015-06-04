@@ -1,5 +1,8 @@
 # ic-stars-git-practice
+<<<<<<< HEAD
 Daytreon Burt
+Sontcera McWilliams
+adding again
 Dan Park
 Clyde Gordon!!
 Gina Brown
