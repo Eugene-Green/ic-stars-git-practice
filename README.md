@@ -1,5 +1,4 @@
 # ic-stars-git-practice
-<<<<<<< HEAD
 Daytreon Burt
 Sontcera McWilliams
 adding again
@@ -11,5 +10,8 @@ Nikki Radford
 EUGENE GREEN
 Vanessa McCarter
 Sergio Rocha
+<<<<<<< HEAD
 Sontcera
 Adding My Name
+Vanessa 
+
