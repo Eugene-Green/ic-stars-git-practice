@@ -1,11 +1,7 @@
 # ic-stars-git-practice
+Dan Park
+Clyde Gordon
 Gina Brown
-Clyde Gordon!
-Gina just did it again!
 
-
-
-
-
-
-Sergio Rocha
+Hello Party People
+Nikki Radford
